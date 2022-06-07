@@ -1,1 +1,2 @@
 # Product-Strategy
+***The most effective products start with a comprehensive market-based, insight-driven strategy. Identify the right problems to solve through market research, target user definition, and market sizing. Create a compelling vision and strategy that will set up the team to solve those problems. Understand how to communicate effectively to get people excited and invested in your ideas.***
